@@ -285,6 +285,12 @@ section {
   margin-bottom: 1rem;
 }
 
+.section__text__p3 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: rgb(76, 147, 245);
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
@@ -415,6 +421,13 @@ section {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.experience-sub-title-smaller {
+  color: rgb(85, 85, 85);
+  font-weight: 500;
+  font-size: 1.05rem;
   margin-bottom: 2rem;
 }
 
